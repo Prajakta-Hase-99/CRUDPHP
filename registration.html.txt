@@ -1,0 +1,9 @@
+<html>
+<form action="Registration.php" method="POST">
+Student Id  :<input type="text" name="Student_Id"><br>
+Student Name :  <input type="text" name="Student_Name"><br>
+Student Mobile : <input type="text" name="Student_Mobile"><br>
+Student Email : <input type="text" name="Student_Email"><br>
+<input type="submit" name="submit">
+</form>
+</html>
